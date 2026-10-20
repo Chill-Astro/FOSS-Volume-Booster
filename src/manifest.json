@@ -9,6 +9,14 @@
     "scripting",
     "storage"
   ],
+"browser_specific_settings": {
+    "gecko": {
+      "id": "fvb@chill-astro.addon",
+      "data_collection_permissions": {
+        "required": ["none"]
+      }
+    }
+  },
   "host_permissions": [
     "<all_urls>"
   ],
