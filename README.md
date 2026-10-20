@@ -38,17 +38,20 @@ THIS IS CURRENTLY UNDER DEVELOPMENT!
 > [!NOTE]
 > THIS EXTENSION WILL BE AVAILABLE TO DOWNLOAD ONCE APPROVED. PLEASE READ USAGE DETAILS BELOW!
 
-STEP 1 : Clone this Repository :
+- STEP 1 : Clone this Repository :
 
     git clone https://github.com/Chill-Astro/FOSS-Volume-Booster.git
     cd FOSS-Volume-Booster
 
-STEP 2C ( C for Chromium ) : Enable `Developer Mode` in Extension Settings.
-STEP 3C ( C for Chromium ) : Import `/src` Folder & Enjoy!
+- STEP 2C ( C for Chromium ) : Enable `Developer Mode` in Extension Settings.
 
-STEP 2F ( F for Firefox ) : Convert `/src` to a `<file_name>.zip`.
-STEP 3F ( F for Firefox ) : Go to `about:debugging` > `This Firefox`
-STEP 4F ( F for Firefox ) : Click on `Load Temporary Addon` and Enjoy! ( Until App Restart )
+- STEP 3C ( C for Chromium ) : Import `/src` Folder & Enjoy!
+
+- STEP 2F ( F for Firefox ) : Convert `/src` to a `<file_name>.zip`.
+
+- STEP 3F ( F for Firefox ) : Go to `about:debugging` > `This Firefox`
+
+- STEP 4F ( F for Firefox ) : Click on `Load Temporary Addon` and Enjoy! ( Until App Restart )
 
 ---
 
