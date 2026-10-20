@@ -6,8 +6,10 @@
 <div align="center">
   
 `FOSS Volume Booster` as the name suggests is an `Open Source` and `Lightweight` `Volume Booster Extension` made for **Firefox** and **Chromium**.
+
+THIS IS CURRENTLY UNDER DEVELOPMENT!
   
-**Latest Stable Version :** `v1.0`
+**Latest Stable Version :** `v1.0 (BETA)`
 
 **Codename** : `FVB`
 
@@ -38,8 +40,8 @@
 
 STEP 1 : Clone this Repository :
 
-    git clone https://github.com/Chill-Astro/Trust-My-Msix.git
-    cd Trust-My-Msix
+    git clone https://github.com/Chill-Astro/FOSS-Volume-Booster.git
+    cd FOSS-Volume-Booster
 
 STEP 2C ( C for Chromium ) : Enable `Developer Mode` in Extension Settings.
 STEP 3C ( C for Chromium ) : Import `/src` Folder & Enjoy!
@@ -89,7 +91,7 @@ I am trying my best to report these people.
 <summary><b>View Details</b></summary>
   
 * **Suspicious Windows Executables:** Files ending in `.exe`, `.bat`, or `.dll` (e.g., `luau.exe`, `StartApp.bat`).
-* **Compressed Archives:** This project is distributed as an **MSIX**, never as a `.zip` or `.7z` containing Windows binaries.
+* **Compressed Archives:** This project is never distributed as a `.zip` or `.7z` containing Windows binaries.
 * **Hidden Scripts:** Text files like `asm.txt` used to execute malicious code on your PC.
 * The Following Folder Structure is used by Malware (Shown in a VM) :
 

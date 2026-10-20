@@ -2,8 +2,6 @@
 
 ---
 
-ALWAYS ensure to Download this .msix only from Trusted Sources listed below alongside Winget :
-
 Do not trust sources listed in HALL OF SHAME and NEVER TRUST .ZIP FILES PROVIDED IN ANY STOLEN REPOSITORY'S READMEs!
 
 They Bypass Github's Security Checks and may Compromise your System with Malware and Steal your ENTIRE Data!
@@ -19,7 +17,7 @@ They Bypass Github's Security Checks and may Compromise your System with Malware
 <summary><b>View Details</b></summary>
 
 * **Suspicious Windows Executables:** Files ending in `.exe`, `.bat`, or `.dll` (e.g., `luau.exe`, `StartApp.bat`).
-* **Compressed Archives:** This project is distributed as an **MSIX**, never as a `.zip` or `.7z` containing Windows binaries.
+* **Compressed Archives:** This project is never distributed as a `.zip` or `.7z` containing Windows binaries.
 * **Hidden Scripts:** Text files like `asm.txt` used to execute malicious code on your PC.
 * The Following Folder Structure is used by Malware (Shown in a VM) :
 
