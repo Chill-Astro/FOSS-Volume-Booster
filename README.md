@@ -15,6 +15,13 @@
 
 ---
 
+## UI Preview : 
+
+<kbd>
+<img width="397" height="307" alt="image" src="https://github.com/user-attachments/assets/f0c7785d-a4c6-42e7-bcbc-ddcd4dde05a8" />
+</kbd>
+
+
 ## Key Features :
 
 - Extemely Lightweight. ✅
