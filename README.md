@@ -20,7 +20,7 @@ THIS IS CURRENTLY UNDER DEVELOPMENT!
 ## UI Preview : 
 
 <kbd>
-<img width="397" height="307" alt="image" src="https://github.com/user-attachments/assets/f0c7785d-a4c6-42e7-bcbc-ddcd4dde05a8" />
+<img width="368" height="302" alt="image" src="https://github.com/user-attachments/assets/570e29ec-1b68-451e-bb1f-ade227def9e1" />
 </kbd>
 
 
