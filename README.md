@@ -5,11 +5,9 @@
 
 <div align="center">
   
-`FOSS Volume Booster` as the name suggests is an `Open Source` and `Lightweight` `Volume Booster Extension` made for **Firefox** and **Chromium**.
-
-THIS IS CURRENTLY UNDER DEVELOPMENT!
+`FOSS Volume Booster` as the name suggests is an `Open Source` and `Lightweight` `Volume Booster Extension` made for **Firefox** and **Chromium**. Up to **600%** Volume!
   
-**Latest Stable Version :** `v1.0 (BETA)`
+**Latest Stable Version :** `v1.0`
 
 **Codename** : `FVB`
 
@@ -36,7 +34,7 @@ THIS IS CURRENTLY UNDER DEVELOPMENT!
 ## USAGE :
 
 > [!NOTE]
-> THIS EXTENSION WILL BE AVAILABLE TO DOWNLOAD ONCE APPROVED. PLEASE READ USAGE DETAILS BELOW!
+> THIS EXTENSION WILL BE AVAILABLE TO DOWNLOAD ONCE APPROVED BY MOZILLA!
 
  STEP 1 : Clone this Repository :
 
