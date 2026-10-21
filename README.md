@@ -20,10 +20,10 @@
 
 ## Key Features :
 
-- Extemely Lightweight. ✅
+- Extremely Lightweight. ✅
 - No ADS & Trackers. ✅
 - Clean & Minimalist UI. ✅
-- Boost upto 600%! ✅
+- Boost up to 600%! ✅
 
 ---
 
@@ -46,7 +46,7 @@
 
  STEP 3F ( F for Firefox ) : Go to `about:debugging` > `This Firefox`
 
- STEP 4F ( F for Firefox ) : Click on `Load Temporary Addon` and Enjoy! ( Until App Restart )
+ STEP 4F ( F for Firefox ) : Click on `Load Temporary Add-on` and Enjoy! ( Until App Restart )
 
 ---
 
