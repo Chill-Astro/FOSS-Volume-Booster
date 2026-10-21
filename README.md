@@ -1,26 +1,22 @@
-<p align="center">
-  <img src="https://github.com/Chill-Astro/FOSS-Volume-Booster/blob/main/src/icon.png" width="200px" alt="FVB Logo">
-</p>
-<h1 align="center">FOSS Volume Booster</h1>
-
+<kbd>
+<img alt="Promo Art" src="https://github.com/user-attachments/assets/639259a9-adf8-4474-a05f-c4c33c9bf240" />
+</kbd>
+<br><br>
 <div align="center">
   
-`FOSS Volume Booster` as the name suggests is an `Open Source` and `Lightweight` `Volume Booster Extension` made for **Firefox** and **Chromium**. Up to **600%** Volume!
+`FOSS Volume Booster` as the name suggests is an `Open Source` and `Lightweight` `Volume Booster Extension` made for **Firefox** and **Chromium**. Up to **600%** Volume! Available on **Microsoft Edge Add-Ons** Coming Soon to **Firefox**!
   
 **Latest Stable Version :** `v1.0`
 
 **Codename** : `FVB`
 
+<a href="https://microsoftedge.microsoft.com/addons/detail/iodcgccnemcdibmfnmmhfljjohjldpjn">
+  <img src="https://github.com/user-attachments/assets/3b558b80-6a72-448b-b7b2-35bbb2aa4720" alt="Get it from Microsoft Edge" width="300" />
+</a>
+
 </div>
 
 ---
-
-## UI Preview : 
-
-<kbd>
-<img width="368" height="302" alt="image" src="https://github.com/user-attachments/assets/570e29ec-1b68-451e-bb1f-ade227def9e1" />
-</kbd>
-
 
 ## Key Features :
 
