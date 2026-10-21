@@ -1,0 +1,36 @@
+{
+  "manifest_version": 3,
+  "name": "FOSS Volume Booster",
+  "version": "1.0",
+  "description": "A Free & Open Source Volume Booster, without Telemetry!",
+  "author": "Chill-Astro Software",
+  "permissions": [
+    "activeTab",
+    "scripting",
+    "storage"
+  ],
+"browser_specific_settings": {
+    "gecko": {
+      "id": "fvb@chill-astro.addon",
+      "data_collection_permissions": {
+        "required": ["none"]
+      }
+    }
+  },
+  "host_permissions": [
+    "<all_urls>"
+  ],
+"background": {
+  "service_worker": "background.js"
+},
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "FOSS Volume Booster",
+    "default_icon": "icon.png"
+  },
+  "icons": {
+    "16": "icon.png",
+    "48": "icon.png",
+    "128": "icon.png"
+  }
+}
