@@ -4,7 +4,7 @@
 <br><br>
 <div align="center">
   
-`FOSS Volume Booster` as the name suggests is an `Open Source` and `Lightweight` `Volume Booster Extension` made for **Firefox** and **Chromium**. Up to **600%** Volume! Available on **Microsoft Edge Add-Ons** Coming Soon to **Firefox**!
+`FOSS Volume Booster` as the name suggests is an `Open Source` and `Lightweight` `Volume Booster Extension` made for **Firefox** and **Chromium**. Up to **600%** Volume! Available on **Microsoft Edge Add-Ons** ( For all the *बलि का बकराs* Accepting it's Shady Practices 💀 ) and Coming Soon to **Firefox**!
   
 **Latest Stable Version :** `v1.0`
 
