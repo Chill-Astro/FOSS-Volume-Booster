@@ -10,8 +10,8 @@
 
 **Codename** : `FVB`
 
-<a href="https://microsoftedge.microsoft.com/addons/detail/iodcgccnemcdibmfnmmhfljjohjldpjn">
-  <img src="https://github.com/user-attachments/assets/3b558b80-6a72-448b-b7b2-35bbb2aa4720" alt="Get it from Microsoft Edge" width="300" />
+<a href="https://microsoftedge.microsoft.com/addons/detail/iodcgccnemcdibmfnmmhfljjohjldpjn" title="Enter at your own risk. Side effects of *THIS BROWSER* may include Unwanted Bing promotions, Non-Consensual Data Importing, Telemetry and Copilot AI stalking you 24/7! 💀 AND FINALLY, It doesn't Uninstall, and ALWAYS Comes Back! 💀💀💀">
+  <img src="https://github.com/user-attachments/assets/3b558b80-6a72-448b-b7b2-35bbb2aa4720" alt="Get it from Microsoft Edge" width="250" />
 </a>
 
 </div>
