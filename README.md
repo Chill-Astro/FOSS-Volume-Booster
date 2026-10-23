@@ -10,10 +10,10 @@
 
 **Codename** : `FVB`
 
-<a href="https://microsoftedge.microsoft.com/addons/detail/iodcgccnemcdibmfnmmhfljjohjldpjn" title="Enter at your own risk. Side effects of *THIS BROWSER* may include Unwanted Bing promotions, Non-Consensual Data Importing, Telemetry and Copilot AI stalking you 24/7! 💀 AND FINALLY, It doesn't Uninstall, and ALWAYS Comes Back! 💀💀💀">
-  <img src="https://github.com/user-attachments/assets/3b558b80-6a72-448b-b7b2-35bbb2aa4720" alt="Get it from Microsoft Edge" width="250" />
-</a>
-
+| FIREFOX ADD-ONS | EDGE ADD-ONS |
+| :---: | :---: |
+| <a href="https://addons.mozilla.org/en-US/firefox/addon/foss-volume-booster/" title="NOTE : THIS IS A CUSTOM BADGE BY ME! 💀 ( CREDITS TO MOZILLA )"><img src="https://github.com/user-attachments/assets/6f56cbb5-a337-4152-9772-86be997483de" alt="Get it from Firefox ADD-ONS" width="250" /></a> | <a href="https://microsoftedge.microsoft.com/addons/detail/iodcgccnemcdibmfnmmhfljjohjldpjn" title="Enter at your own risk. Side effects of *THIS BROWSER* may include Unwanted Bing promotions, Non-Consensual Data Importing, Telemetry and Copilot AI stalking you 24/7! 💀 AND FINALLY, It doesn't Uninstall, and ALWAYS Comes Back! 💀💀💀"><img src="https://github.com/user-attachments/assets/3b558b80-6a72-448b-b7b2-35bbb2aa4720" alt="Get it from Microsoft Edge" width="250" /></a> |
+  
 </div>
 
 ---
